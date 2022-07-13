@@ -42,8 +42,9 @@
     -Просмотр списка веток
 *  **git branch -d existing_branch_name** 
 -Удаление ветки
-*  **git branch -d existing_branch_name** 
 
+*  **git branch -D existing_branch_name** 
+-Принудительное удаление  ветки без предупреждений
 * **git merge existing_branch_name**
 
 * **git log --graph --oneline --decorate**
