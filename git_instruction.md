@@ -39,7 +39,7 @@
 *  **git branch new_branch_name** 
 
 *  **git branch** 
-
+    -Просмотр списка веток
 *  **git branch -d existing_branch_name** 
 
 *  **git branch -d existing_branch_name** 
