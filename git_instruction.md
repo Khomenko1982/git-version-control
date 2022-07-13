@@ -41,7 +41,7 @@
 *  **git branch** 
     -Просмотр списка веток
 *  **git branch -d existing_branch_name** 
-
+-Удаление ветки
 *  **git branch -d existing_branch_name** 
 
 * **git merge existing_branch_name**
