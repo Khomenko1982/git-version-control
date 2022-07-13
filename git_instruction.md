@@ -45,7 +45,7 @@
 *  **git branch -d existing_branch_name** 
 
 * **git merge existing_branch_name**
-
+-Слияние двух веток
 * **git log --graph --oneline --decorate**
 
 * **git merge --abort**
