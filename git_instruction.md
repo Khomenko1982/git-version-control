@@ -46,7 +46,7 @@
 *  **git branch -D existing_branch_name** 
 -Принудительное удаление  ветки без предупреждений
 * **git merge existing_branch_name**
-
+-Слияние двух веток
 * **git log --graph --oneline --decorate**
 
 * **git merge --abort**
