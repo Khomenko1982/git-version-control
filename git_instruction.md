@@ -46,11 +46,7 @@
 *  **git branch -D existing_branch_name** 
 -Принудительное удаление  ветки без предупреждений
 * **git merge existing_branch_name**
-<<<<<<< HEAD
 -Слияние двух веток
-=======
--Создам ка я конфликт версий!!))
->>>>>>> new_br5
 * **git log --graph --oneline --decorate**
 -Отображение журнала фиксации в виде графика для текущей или всех веток
 * **git merge --abort**
